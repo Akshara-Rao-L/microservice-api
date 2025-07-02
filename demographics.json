@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "dob": "1990-05-12",
+    "phoneNumber": "9876543210",
+    "emailId": "rahul.sharma@example.com",
+    "address": "123 MG Road, Mumbai"
+  },
+  {
+    "name": "Priya Singh",
+    "dob": "1992-08-25",
+    "phoneNumber": "9123456780",
+    "emailId": "priya.singh@example.com",
+    "address": "56 Park Street, Delhi"
+  },
+  {
+    "name": "Amit Kumar",
+    "dob": "1995-03-10",
+    "phoneNumber": "9012345678",
+    "emailId": "amit.kumar@example.com",
+    "address": "789 Lakeview, Bangalore"
+  },
+  {
+    "name": "Kumar",
+    "dob": "1995-03-10",
+    "phoneNumber": "9012345677",
+    "emailId": "amit.kumar@example.com",
+    "address": "789 Lakeview, Bangalore"
+  }
+]
