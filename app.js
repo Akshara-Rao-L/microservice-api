@@ -16,6 +16,8 @@ try {
   process.exit(1);
 }
 
+console.log("hi");
+
 // -------- Existing name-check route ----------
 app.post('/name-check', (req, res) => {
   const { name } = req.body;
